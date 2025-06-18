@@ -1,0 +1,13 @@
+{
+  "name": "yobox-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "whatsapp-web.js": "^1.30.0",
+    "qrcode": "^1.5.4"
+  }
+}
